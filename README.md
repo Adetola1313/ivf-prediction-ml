@@ -56,3 +56,7 @@ To develop predictive models that estimate the likelihood of successful IVF outc
 
 * ivf_model.ipynb → main analysis and modelling
 * visuals/ → charts and outputs
+* ## 📂 Project Files
+
+- 📄 [Project Summary](ivf_project_summary.pdf)
+- 📊 [Notebook](ivf_model.ipynb)
